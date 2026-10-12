@@ -1,0 +1,204 @@
+================================================================================
+SNAPMAKER CONTROL
+PROPRIETARY LICENSE AGREEMENT
+Snapmaker Control 专有许可协议
+================================================================================
+
+Effective Date: this Agreement takes effect upon the end user's acquisition
+or first run of the Software (see Section 7).
+本协议自终端用户获取或首次运行软件时生效（见第 7 条）。
+
+Scope: this Agreement governs only the proprietary Snapmaker portions of
+Snapmaker Control. It does not apply to Snapmaker Orca (licensed under the
+GNU AGPL-3.0) or to any third-party component listed in
+THIRD_PARTY_NOTICES.txt; each of those remains governed by its own license.
+
+作用边界：本协议仅约束 Snapmaker Control 中 Snapmaker 专有部分，不约束
+Snapmaker Orca（GNU AGPL-3.0）及 THIRD_PARTY_NOTICES.txt 所列第三方组件，
+后者各自适用其自身许可条款。
+
+--------------------------------------------------------------------------------
+1. DEFINITIONS / 定义
+--------------------------------------------------------------------------------
+
+1.1 "Snapmaker" means 深圳快造科技有限公司 (Shenzhen Snapmaker
+    Technologies Co., Ltd.), a company incorporated under the laws of the
+    People's Republic of China.
+
+    "Snapmaker"指深圳快造科技有限公司。
+
+1.2 "Software" means the Snapmaker Control software distributed by Snapmaker
+    through the Official Channels, including as bundled with Snapmaker Orca,
+    including its executable binaries (snapmaker_control,
+    snapmaker_control.exe), any bundled web assets, and associated
+    documentation, but excluding any Third-Party Components (Section 6).
+
+    "软件"指 Snapmaker 通过官方渠道分发的 Snapmaker Control 软件（包括随
+    Snapmaker Orca 打包分发的版本），包括其可执行二进制文件
+    （snapmaker_control、snapmaker_control.exe）、内置 Web 资源及随附
+    文档，但不包括第三方组件（见第 6 条）。
+
+1.3 "Official Channels" means the distribution channels designated by
+    Snapmaker, including the Snapmaker official website (snapmaker.com),
+    the official GitHub releases of the Snapmaker Control distribution
+    repository (snapmaker_control), updates delivered through Snapmaker
+    Orca or other genuine Snapmaker software, and any other channel
+    expressly designated by Snapmaker.
+
+    "官方渠道"指 Snapmaker 指定的分发渠道，包括 Snapmaker 官网
+    （snapmaker.com）、Snapmaker Control 分发仓库（snapmaker_control）的
+    官方 GitHub Releases、通过 Snapmaker Orca 或其他正版 Snapmaker 软件交付
+    的更新，以及 Snapmaker 明确指定的其他渠道。
+
+--------------------------------------------------------------------------------
+2. OWNERSHIP / 版权归属
+--------------------------------------------------------------------------------
+
+The Software is proprietary to Snapmaker (深圳快造科技有限公司) and its
+licensors. The Software is protected by copyright and other intellectual
+property laws. All rights, title, and interest in and to the Software remain
+with the copyright holder.
+
+软件的版权及相关知识产权归 Snapmaker（深圳快造科技有限公司）及其许可方
+所有，受著作权及其他知识产权法律保护。未在本协议中明确授予的权利均由版权人
+保留。
+
+--------------------------------------------------------------------------------
+3. GRANT OF LICENSE / 授权范围
+--------------------------------------------------------------------------------
+
+Subject to the terms of this Agreement, Snapmaker grants to the end user a
+limited, non-exclusive, non-transferable, revocable license to install and
+run the Software, as obtained through the Official Channels:
+
+  (a) as part of, or in connection with, the use of Snapmaker Orca and
+      genuine Snapmaker products; or
+  (b) as a standalone tool, solely in connection with genuine Snapmaker
+      products, including for device setup, monitoring, and diagnostics.
+
+在遵守本协议各项条款的前提下，Snapmaker 授予终端用户一项有限的、非独占的、
+不可转让的、可撤销的许可，将通过官方渠道获取的软件按以下方式安装和运行：
+
+  (a) 作为 Snapmaker Orca 及正品 Snapmaker 产品使用的一部分或与之配合；或
+  (b) 作为独立工具运行，仅限与正品 Snapmaker 产品配合使用，包括设备配置、
+      监控与诊断。
+
+--------------------------------------------------------------------------------
+4. DISTRIBUTION / 分发
+--------------------------------------------------------------------------------
+
+The Software is licensed for distribution exclusively via the Official
+Channels. Redistribution of the Software, in whole or in part, by any party
+other than Snapmaker or its authorized distributors is prohibited.
+
+软件仅限通过官方渠道分发。除 Snapmaker 及其授权分发方外，任何一方不得再分发本
+软件的全部或任何部分。
+
+--------------------------------------------------------------------------------
+5. RESTRICTIONS / 限制
+--------------------------------------------------------------------------------
+
+Except as permitted by applicable mandatory law, the end user shall not:
+
+  (a) redistribute, sublicense, lease, lend, sell, or publish the Software;
+  (b) reverse engineer, decompile, or disassemble the Software, or attempt to
+      derive its source code;
+  (c) remove, obscure, or alter any copyright notice, marking, or attribution
+      contained in the Software;
+  (d) use the Software to build a competing product or service.
+
+除适用强制性法律允许外，终端用户不得：
+
+  (a) 再分发、再许可、出租、出借、销售或公开发布本软件；
+  (b) 对本软件进行逆向工程、反编译或反汇编，或试图推导其源代码；
+  (c) 移除、遮挡或篡改软件中包含的任何版权声明、标识或署名；
+  (d) 利用本软件构建竞争性产品或服务。
+
+--------------------------------------------------------------------------------
+6. THIRD-PARTY COMPONENTS / 第三方组件
+--------------------------------------------------------------------------------
+
+The Software contains or is accompanied by third-party components licensed
+under their own terms, as identified in THIRD_PARTY_NOTICES.txt (and the font
+license files) shipped with this distribution. This Agreement does not limit,
+restrict, or override any rights granted under those licenses, and does not
+apply to those components.
+
+本软件包含或随附受各自许可条款约束的第三方组件，详见随本分发提供的
+THIRD_PARTY_NOTICES.txt（及字体许可文件）。本协议不限制、不约束、不凌驾于上述
+许可授予的任何权利，亦不适用于上述组件。
+
+--------------------------------------------------------------------------------
+7. TERM AND TERMINATION / 期限与终止
+--------------------------------------------------------------------------------
+
+This Agreement takes effect upon the end user's acquisition or first run of
+the Software and remains in effect until terminated. It terminates
+automatically upon any breach of its terms. Sections 2, 5, and 7 through 10
+survive termination.
+
+本协议自终端用户获取或首次运行软件时生效，直至终止。违反本协议任何条款的，本协
+议自动终止。第 2 条、第 5 条及第 7 至 10 条在终止后继续有效。
+
+--------------------------------------------------------------------------------
+8. DISCLAIMER OF WARRANTIES / 免责声明
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. To the maximum
+extent permitted by applicable law, the copyright holder disclaims all
+warranties, express or implied, including warranties of merchantability,
+fitness for a particular purpose, and non-infringement.
+
+软件按"现状"提供，不作任何明示或默示保证。在适用法律允许的最大范围内，版权人
+不承担任何默示保证，包括适销性、特定用途适用性及不侵权保证。
+
+--------------------------------------------------------------------------------
+9. LIMITATION OF LIABILITY / 责任限制
+--------------------------------------------------------------------------------
+
+To the maximum extent permitted by applicable law, the copyright holder shall
+not be liable for any indirect, incidental, special, consequential, or punitive
+damages, or for loss of profits or data, arising out of or in connection with
+the Software, even if advised of the possibility of such damages.
+
+在适用法律允许的最大范围内，版权人不就软件引起的或与之相关的任何间接损失、附带
+损失、特殊损失、后果性损失、惩罚性赔偿及利润或数据损失承担责任。
+
+--------------------------------------------------------------------------------
+10. GENERAL / 一般条款
+--------------------------------------------------------------------------------
+
+10.1 Governing law and jurisdiction: this Agreement is governed by the laws
+     of the People's Republic of China, without regard to its conflict-of-laws
+     rules. The people's courts with jurisdiction in Shenzhen, Guangdong,
+     China shall have exclusive jurisdiction over any dispute arising out of
+     or in connection with this Agreement.
+
+     适用法律与争议解决：本协议适用中华人民共和国法律（不含冲突法规范）。因本
+     协议引起的或与之相关的争议，由中国广东省深圳市有管辖权的人民法院专属
+     管辖。
+
+10.2 If any provision of this Agreement is held unenforceable, the remainder
+     shall continue in full force and effect.
+
+     本协议任何条款被认定为不可执行的，不影响其余条款的效力。
+
+10.3 This Agreement, together with the third-party license documents referenced
+     in Section 6, constitutes the entire agreement with respect to the
+     Software.
+
+     本协议与第 6 条援引的第三方许可文件共同构成关于本软件的完整协议。
+
+10.4 Export control: the end user shall comply with all applicable export
+     control and trade sanctions laws and regulations in connection with the
+     Software.
+
+     出口管制：终端用户应遵守与软件相关的所有适用出口管制与贸易制裁法律
+     法规。
+
+Contact for licensing matters: via the official support channels at
+https://snapmaker.com
+许可事宜联系方式：通过 Snapmaker 官网 https://snapmaker.com 的官方支持渠道。
+
+Copyright (c) 2026 深圳快造科技有限公司 (Shenzhen Snapmaker Technologies
+Co., Ltd.). All rights reserved.
